@@ -25,8 +25,6 @@ with open('test.txt', 'r', encoding="utf-8") as f2:
     for line2 in lines2:
         x = re.findall('[0-9]+', line2)
         tab.append(x)
-        print(tab)
-
         if len(line2)== 1:
             task_elves1 =list((range(int(tab[0][0]), int(tab[0][1])+1)))
             task_elves2 =list((range(int(tab[1][0]), int(tab[1][1])+1)))
@@ -39,7 +37,13 @@ with open('test.txt', 'r', encoding="utf-8") as f2:
             if(S1.intersection(S2)):
                 count2+=1
 
+            task_elves1.clear()
+            task_elves2.clear()
             tab.clear()
-         
+    
+    print("############################################################################ PART 1 ############################################################################")
     print("Answer Part 1:", count)
-    print("Answer Part 1:", count2)
+
+    print("############################################################################ PART 2 ############################################################################")
+    print("Answer Part 2:", count2)
+
