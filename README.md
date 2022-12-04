@@ -10,3 +10,5 @@ Here are my write-ups on Advent of Code 2022 challenges.
 
 ### [Day 3: Rucksack Reorganization ](https://github.com/Mogulzz/Advent_of_Code_2022/tree/main/Day3)
 
+### [Day 4: Camp Cleanup ](https://github.com/Mogulzz/Advent_of_Code_2022/tree/main/Day4)
+
