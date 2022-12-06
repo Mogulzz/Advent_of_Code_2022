@@ -12,7 +12,7 @@ Here are my write-ups on Advent of Code 2022 challenges.
 
 ### [Day 4: Camp Cleanup ](https://github.com/Mogulzz/Advent_of_Code_2022/tree/main/Day4)
 
-### [Day 5: Supply Stacks ](https://github.com/Mogulzz/Advent_of_Code_2022/tree/main/Day4)
+### [Day 5: Supply Stacks ](https://github.com/Mogulzz/Advent_of_Code_2022/tree/main/Day5)
 
-### [Day 6: Tuning Trouble ](https://github.com/Mogulzz/Advent_of_Code_2022/tree/main/Day4)
+### [Day 6: Tuning Trouble ](https://github.com/Mogulzz/Advent_of_Code_2022/tree/main/Day6)
 
