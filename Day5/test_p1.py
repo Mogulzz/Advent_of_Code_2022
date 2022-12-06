@@ -1,6 +1,5 @@
 char2 = [ ['F','T','N','Z','M','G','H','J'], ['J','W','V'],  ['H','T','B','J','L','V','G'],  ['L','V','D','C','N','J','P','B'], ['G','R','P','M','S','W','F'], ['M','V','N','B','F','C','H','G'],  ['R','M','G','H','D'],  ['D','Z','V','M','N','H'], ['H','F','N','G'] ]
-char = [ ['N','Z'], ['D','C','M'],  ['P']]
-with open('test2.txt', 'r', encoding="utf-8") as f:
+with open('test.txt', 'r', encoding="utf-8") as f:
     lines = f.readlines()
     tab=[]
     for line in lines:
